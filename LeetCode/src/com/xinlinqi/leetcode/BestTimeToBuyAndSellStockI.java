@@ -1,5 +1,10 @@
 package com.xinlinqi.leetcode;
 
+/**
+ * test
+ * @author linqi.xlq
+ *
+ */
 public class BestTimeToBuyAndSellStockI {
 	public int maxProfit(int[] prices) {
 		
